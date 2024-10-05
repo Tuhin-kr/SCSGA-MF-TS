@@ -1,0 +1,4 @@
+n_agents=6000
+m_tasks= 120
+features=10
+distribution_inst=6
